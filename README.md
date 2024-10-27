@@ -6,8 +6,6 @@
 
 <h3 align="center">Welcome to my GitHub profile :3</h3>
 
-img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+me+GitHub+Profile!;Python+enthusiast;Watch+anime+and+teach+algorithms" alt="Typing SVG" />
-
 <div id="badges" align="center">
   <a href="https://t.me/horekisun">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -30,7 +28,3 @@ img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+t
 
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=orange"/>
 
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=TheDmitryY &show_icons=true&theme=tokyonight" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDmitryY &layout=compact&theme=tokyonight" />
-</div>
