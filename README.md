@@ -1,6 +1,8 @@
-<h2> 🍁 - Tech Task </h4>
+ #### 🍁 - Tech Task 
 
-<h4> ☘️ - Tools <h3>
+ ### ☘️ - Tools
+
+
 ![Git](https://img.shields.io/badge/git-710000?style=for-the-badge&logo=git&logoColor=f64d27)
 
 
