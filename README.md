@@ -16,11 +16,12 @@
  #### 🍁 - Tech Stack
 
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Batch-green?style=for-the-badge&logo=batch&logoColor=black"/>
 
 
 
  ### ☘️ - Tools
 <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pycharm-purple?style=for-the-badge&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Batch-green?style=for-the-badge&logo=batch&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=orange"/>
