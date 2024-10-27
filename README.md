@@ -4,9 +4,3 @@
 
 
 
-- 👋 Hi, I’m @TheDmitryY
-- 👀 I’m interested in programming, creative awesome and interesting virtual projects,ideas,etc....
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: Telegram: @horekisun
-- 😄 Pronouns: Talent is not enough, hard work is needed.
-- ⚡ Fun fact: I'm - introvert.
