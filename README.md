@@ -27,3 +27,6 @@
 <img src="https://img.shields.io/badge/Pycharm-purple?style=for-the-badge&logo=pycharm&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=orange"/>
+
+a href="https://github.com/TheDmitryY"><img src="https://github-readme-stats.vercel.app/api?username=TheDmitryY &hide_border=true&show_icons=true" alt="TheDmitryY's github stats"></a>
+</p>
