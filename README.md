@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=TheDmitryY &style=flat-square&color=blue"/>
+img src="https://komarev.com/ghpvc/?username=TheDmitryY &style=flat-square&color=blue" alt=""/>
 
 
  #### 🍁 - Tech Stack
