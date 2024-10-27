@@ -10,13 +10,13 @@
   <a href="https://t.me/horekisun">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 
  #### 🍁 - Tech Stack
 
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 
 
  ### ☘️ - Tools
