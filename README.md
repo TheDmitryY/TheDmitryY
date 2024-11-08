@@ -32,7 +32,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedmitryy&show_icons=true&locale=en" alt="thedmitryy" />
+
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedmitryy&" alt="thedmitryy" />
 
