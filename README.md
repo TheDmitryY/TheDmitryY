@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=orange"/>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedmitryy&show_icons=true&locale=en&layout=compact" alt="thedmitryy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedmitryy&show_icons=true&locale=en&layout=compact" alt="thedmitryy" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thedmitryy&show_icons=true&locale=en" alt="thedmitryy" />
 
