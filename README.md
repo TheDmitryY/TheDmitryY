@@ -10,7 +10,6 @@
   <a href="https://t.me/horekisun">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 
 
@@ -19,7 +18,11 @@
 
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/aiogram-blue?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/sqlite3-blue?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PyQt-green?style=for-the-badge&logo=qt&logoColor=white"/>
 
