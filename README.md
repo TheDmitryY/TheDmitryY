@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="30" alt="vim logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-2496ED?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
 </div>
 
 ###
