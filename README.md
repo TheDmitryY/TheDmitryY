@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Dmitry and I'm a developer from Ukraine</h2>
+<pre>⭐Khmnu | 🔧Computer Engineering student 
+  | ⚙️Backend Developer 
+  | 💎Technologies: Python, FastAPI, PostgreSQL, Linux, Aiogram, Redis, Docker, Docker Compose
+
+  Telegram: <a href="https://t.me/sunsdev">@sunsdev</a>
+</pre>
 
 ###
 
