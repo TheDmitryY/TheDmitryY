@@ -1,6 +1,6 @@
 <pre>⭐Khmnu | 🔧Computer Engineering student 
   | ⚙️Backend Developer 
-  | 💎Technologies: Python, FastAPI, PostgreSQL, Linux, Aiogram, Redis, Docker, Docker Compose
+  | 💎Technologies: Python, FastAPI, PostgreSQL, Linux, Redis, Docker, Docker Compose
 
   Telegram: <a href="https://t.me/sunsdev">@sunsdev</a>
 </pre>
